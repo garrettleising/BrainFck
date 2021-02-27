@@ -1,5 +1,5 @@
 # BrainFck
-I wanted to challenge myself by writiing some simple programs in Brainfck. A the language only has 8 operators: 
+I wanted to challenge myself by writing some programs in Brainfck. A the language only has 8 operators: 
  - ```+``` adds one to the byte the pointer is at
  - ```-``` subtracts one from the byte the pointer is at
  - ```<``` moves the pointer down one address
